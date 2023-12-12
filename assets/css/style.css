@@ -1,0 +1,49 @@
+*{
+    /* border: 1px solid coral; */
+}
+
+header{
+    background-color: #2c3e50;
+    height: 100px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+header i{
+    padding: 5px 10px;
+}
+
+.mg_bgcolor_green{
+    background-color: #1abc9c;
+}
+
+.mg_text_color_green{
+    color: #1abc9c;
+    text-decoration: none;
+}
+
+.mg_bgcolor_darkblue{
+    background-color: #2c3e50;
+}
+
+.mg_bgcolor_blue{
+    background-color: #3a546d;
+}
+
+.mg_row_star{
+    height: 5px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.mg_row_star_black{
+    height: 5px;
+    background-color: black;
+    border-radius: 10px;
+}
+
+.mg_section_about{
+    background-color: #1abc9c;
+}
